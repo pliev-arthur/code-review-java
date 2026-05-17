@@ -1,8 +1,8 @@
 // FIXME:
-// 1. Полю scanner добавлен модификатор private (Google Style Guide требует инкапсуляции)
-// 2. Исправлены комментарии — добавлен пробел после // (Google Style Guide 4.8.6)
-// 3. Вызов getСurrentHours() заменён на getCurrentHours() (метод переименован в Time.java)
-// 4. Добавлен javadoc для класса
+// 1. Полю scanner добавлен модификатор private
+// 2. Исправлены комментарии — добавлен пробел после //
+// 3. Переименован метод getСurrentHours() (кириллическая 'С' заменена на латинскую 'C')
+
 /*import departmentAndEmployee.Department;
 
 import java.util.Locale;

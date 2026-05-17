@@ -1,11 +1,8 @@
 // FIXME:
-// 1. Полям name и department добавлен модификатор private (Google Style Guide требует инкапсуляции)
-// 2. Исправлен вызов department.getBoss() в toString() — первый if проверяет department.getBoss().getName() == name без проверки boss на null (NPE). Добавлена проверка department.getBoss() != null.
-// 3. Сравнение строк заменено с == на equals() (корректное сравнение содержимого строк)
-// 4. Добавлены пустые строки между методами (Google Style Guide 4.6.1)
-// 5. Добавлен javadoc для класса
-/*
+// 1. Полям name и department добавлен модификатор private
+// 2. Добавлены пустые строки между методами
 
+/*
 public class Employee {
     String name;
     Department department;

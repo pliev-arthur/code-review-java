@@ -1,7 +1,7 @@
 // FIXME:
-// 1. Переименован метод getСurrentHours() → getCurrentHours() (кириллическая 'С' U+0421 заменена на латинскую 'C')
+// 1. Переименован метод getСurrentHours() (кириллическая 'С' заменена на латинскую 'C')
 // 2. Исправлен отступ в конструкторе Time(int hours,int minutes, int seconds) — добавлен пробел после запятой
-// 3. Добавлен javadoc для класса
+
 /*public class Time {
     private int seconds;
 

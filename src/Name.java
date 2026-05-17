@@ -1,6 +1,6 @@
 // FIXME:
 // 1. Убран лишний пробел в конструкторе Name( String lastName...)
-// 2. Добавлен javadoc для класса
+
 /*public class Name {
 
     private String firstName;

@@ -1,10 +1,9 @@
 // FIXME:
-// 1. Полям name, boss, employees добавлен модификатор private (Google Style Guide требует инкапсуляции)
-// 2. Тип поля employees изменён с ArrayList<Employee> на List<Employee> (программируйте на уровне интерфейса)
+// 1. Полям name, boss, employees добавлен модификатор private
+// 2. Тип поля employees изменён с ArrayList<Employee> на List<Employee>
 // 3. Исправлен пробел в IllegalStateException — убран лишний пробел перед скобкой
-// 4. Добавлен javadoc для класса
-/*
 
+/*
 import java.util.ArrayList;
 
 public class Department {
